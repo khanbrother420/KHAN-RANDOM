@@ -24,9 +24,9 @@ def o():
     if Mahin == '1':
         i()
     if Mahin == '2':
-        os.system('xdg-open https://www.facebook.com/tur.nanir.hada.tc09')
+        os.system('xdg-open https://www.facebook.com/Mr.KhanVau420')
     if Mahin == '3':
-        os.system('xdg-open https://www.facebook.com/tur.nanir.hada.tc09')
+        os.system('xdg-open https://www.facebook.com/Mr.KhanVau420')
     if Mahin == 'E':
         os.system('exit')
         return None
