@@ -1,5 +1,5 @@
 #-----------------INFO-------------------
-!/usr/bin/python
+#!/usr/bin/python
 #FACEBOOK : Mr.KhanVau420
 #github : khanbrother420
 # The Credit For This Code Goes To KHAN-BROTHER
