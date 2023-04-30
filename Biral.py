@@ -1,4 +1,4 @@
------------------INFO-------------------
+#-----------------INFO-------------------
 !/usr/bin/python
 #FACEBOOK : Mr.KhanVau420
 #github : khanbrother420
